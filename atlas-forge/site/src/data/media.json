@@ -1,0 +1,70 @@
+{
+	"hero": [
+		{
+			"src": "/media/hero/01.jpg",
+			"alt": "architecture glass facade"
+		},
+		{
+			"src": "/media/hero/02.jpg",
+			"alt": "cyber security hardware"
+		},
+		{
+			"src": "/media/hero/03.jpg",
+			"alt": "circuit board silicon"
+		},
+		{
+			"src": "/media/hero/04.jpg",
+			"alt": "minimal developer workspace"
+		},
+		{
+			"src": "/media/hero/05.jpg",
+			"alt": "concrete minimal structure"
+		},
+		{
+			"src": "/media/hero/06.jpg",
+			"alt": "automated logistics hub"
+		},
+		{
+			"src": "/media/hero/07.jpg",
+			"alt": "geometric atrium interior"
+		},
+		{
+			"src": "/media/hero/08.jpg",
+			"alt": "robotic automation arm"
+		},
+		{
+			"src": "/media/hero/09.jpg",
+			"alt": "cloud server datacenter"
+		},
+		{
+			"src": "/media/hero/10.jpg",
+			"alt": "sahara desert landscapes"
+		},
+		{
+			"src": "/media/hero/11.jpg",
+			"alt": "code editor engineering"
+		},
+		{
+			"src": "/media/hero/12.jpg",
+			"alt": "modern creative studio"
+		}
+	],
+	"about": {
+		"src": "/media/about/01.jpg",
+		"alt": "portrait fondateur studio"
+	},
+	"testimonials": [
+		{
+			"src": "/media/testimonials/01.jpg",
+			"alt": "cabinet architecture espace"
+		},
+		{
+			"src": "/media/testimonials/02.jpg",
+			"alt": "cod retail logistique"
+		},
+		{
+			"src": "/media/testimonials/03.jpg",
+			"alt": "nomad desert escapes"
+		}
+	]
+}

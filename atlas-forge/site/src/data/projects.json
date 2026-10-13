@@ -1,0 +1,515 @@
+[
+	{
+		"slug": "khemisti-studio",
+		"title": "Khemisti Studio",
+		"category": "Plateforme Web",
+		"year": 2025,
+		"details": [
+			{
+				"label": "Client",
+				"value": "Cabinet Khemisti & Associés"
+			},
+			{
+				"label": "Équipe",
+				"value": "Lead Fullstack & UI/UX"
+			},
+			{
+				"label": "Livrables",
+				"value": "Webapp 3D, CMS Headless, SEO & Optimisation CWV"
+			},
+			{
+				"label": "Stack",
+				"value": "Next.js 15, Tailwind v4, Three.js, Vercel"
+			}
+		],
+		"summary": "Plateforme immersive et portfolio interactif en 3D temps réel pour un cabinet d’architecture contemporaine.",
+		"description": [
+			"Conception d’une identité numérique épurée mettant en valeur les maquettes et réalisations architecturales à travers une navigation cinématique et des rendus WebGL fluides.",
+			"Intégration d’un espace privé pour les consultations d’appels d’offres et d’une galerie haute résolution optimisée pour le mobile comme pour les grands écrans."
+		],
+		"cover": {
+			"src": "/projects/assets/698f52929fc6264e80263e880caba997.jpg",
+			"alt": "Façade contemporaine du projet architectural",
+			"width": 2000,
+			"height": 1333
+		},
+		"gallery": [
+			{
+				"src": "/projects/assets/fb7d7cfb15cad424e3dc83cd48b496b9.jpg",
+				"alt": "Intérieur minimaliste en béton ciré",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/0fa95022fce33d2087a9d24d3a5545a8.jpg",
+				"alt": "Détail de structure en verre et lumière",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/3ebcf7627d58456d9d4fa04312164409.jpg",
+				"alt": "Espace de vie ouvert sur jardin contemporain",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/dbc4d3958aa72ead18c0130afe80b3fe.jpg",
+				"alt": "Vue nocturne du pavillon architectural",
+				"type": "image"
+			}
+		]
+	},
+	{
+		"slug": "nexus-cod-pipeline",
+		"title": "Nexus COD Pipeline",
+		"category": "Automatisation COD",
+		"year": 2025,
+		"details": [
+			{
+				"label": "Client",
+				"value": "COD Express & Retail Network"
+			},
+			{
+				"label": "Équipe",
+				"value": "Ingénieur Automatisation & Backend"
+			},
+			{
+				"label": "Livrables",
+				"value": "Orchestrateur multi-transporteurs, Webhooks, Sync ERP"
+			},
+			{
+				"label": "Stack",
+				"value": "Node.js, n8n, PostgreSQL, Redis, APIs Logistiques"
+			}
+		],
+		"summary": "Moteur événementiel automatisant l’aiguillage, le calcul dynamique des frais et le tracking en direct sur 58 Wilayas.",
+		"description": [
+			"Déploiement d’une architecture résiliente traitant plus de 4 000 commandes quotidiennes avec validation regex des numéros de téléphone et détection instantanée des doublons.",
+			"Dispatch automatisé entre livraison à domicile et Stop-Desk selon la performance des transporteurs locaux, avec notifications SMS et WhatsApp."
+		],
+		"cover": {
+			"src": "/projects/assets/096802cb16d36f8418e6fd13fcd2037a.jpg",
+			"alt": "Centre logistique moderne et tri automatisé",
+			"width": 2000,
+			"height": 1333
+		},
+		"gallery": [
+			{
+				"src": "/projects/assets/e72cae74b95eb89dfb46256abe6ea7ef.jpg",
+				"alt": "Colis étiquetés prêts pour expédition",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/9de0cc049a6d9f0fe9c9cb65d34c4faf.jpg",
+				"alt": "Supervision des flux de stockage",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/f427d0a4cbe6c0424f6189b86a12262a.jpg",
+				"alt": "Chariot de manutention et rayonnages",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/79bd0b07afaed2b00a03d2bc2066fd14.jpg",
+				"alt": "Écran de contrôle logistique temps réel",
+				"type": "image"
+			}
+		]
+	},
+	{
+		"slug": "nomad-ai-concierge",
+		"title": "Nomad AI Concierge",
+		"category": "Intégration IA",
+		"year": 2024,
+		"details": [
+			{
+				"label": "Client",
+				"value": "Nomad Escapes & Eco-Resorts"
+			},
+			{
+				"label": "Équipe",
+				"value": "Ingénieur IA & Fullstack"
+			},
+			{
+				"label": "Livrables",
+				"value": "Agent multimodal, RAG vectoriel, Interface de chat native"
+			},
+			{
+				"label": "Stack",
+				"value": "Gemini 2.5 Flash, Supabase pgvector, FastAPI, React"
+			}
+		],
+		"summary": "Agent autonome multilingue gérant les réservations de séjours et les recommandations touristiques en temps réel.",
+		"description": [
+			"Mise en œuvre d’un assistant conversationnel capable de comprendre les requêtes complexes en français, anglais et dialecte local pour recommander les circuits touristiques adaptés.",
+			"Connexion directe au calendrier des disponibilités et traitement automatisé des demandes d’hébergement avec qualification instantanée des leads."
+		],
+		"cover": {
+			"src": "/projects/assets/79fcbfa976bbb781784cb388509784fa.jpg",
+			"alt": "Camp éco-responsable dans le désert au crépuscule",
+			"width": 2000,
+			"height": 3000
+		},
+		"gallery": [
+			{
+				"src": "/projects/assets/7ede5adca9d98068cf91383e1662d018.jpg",
+				"alt": "Ciel étoilé sur les dunes sahariennes",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/293e4f11c7d78c0e5a33f3c4c85f242a.jpg",
+				"alt": "Salon extérieur contemporain au cœur d’une oasis",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/f5fca106cd632e8a98c4721ff81be33a.jpg",
+				"alt": "Canyon naturel et reliefs rocheux",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/05599dfc938b17cc5364f106c7b44113.jpg",
+				"alt": "Voyageurs observant le coucher de soleil",
+				"type": "image"
+			}
+		]
+	},
+	{
+		"slug": "kalyon-btp-portal",
+		"title": "Kalyon BTP Portal",
+		"category": "Plateforme Web",
+		"year": 2024,
+		"details": [
+			{
+				"label": "Client",
+				"value": "Kalyon Construction & BTP"
+			},
+			{
+				"label": "Équipe",
+				"value": "Architecte Solution & Fullstack Dev"
+			},
+			{
+				"label": "Livrables",
+				"value": "Dashboard analytique temps réel, Gestion documentaire, RBAC"
+			},
+			{
+				"label": "Stack",
+				"value": "React 19, TypeScript, TanStack Query, Prisma, PostgreSQL"
+			}
+		],
+		"summary": "Application web centralisée pour la planification, le suivi des ressources et l’inventaire des grands chantiers.",
+		"description": [
+			"Développement d’un portail collaboratif permettant aux conducteurs de travaux de téléverser leurs rapports quotidiens et de synchroniser les plannings d’approvisionnement en temps réel.",
+			"Dashboard interactif avec graphiques d’avancement, alertes de maintenance préventive et synchronisation hors-ligne sur le terrain."
+		],
+		"cover": {
+			"src": "/projects/assets/671a46fe3bf15ae3629eb171b269623a.jpg",
+			"alt": "Grue de construction et structure urbaine moderne",
+			"width": 2000,
+			"height": 1333
+		},
+		"gallery": [
+			{
+				"src": "/projects/assets/7b84b1b34afbbc815e7712b99cf66da0.jpg",
+				"alt": "Structure métallique et poutres industrielles",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/6cb7449c69f7d0355fd72afbf0a92813.jpg",
+				"alt": "Ingénieurs consultant des plans sur tablette",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/b73f241909cda827b4a3dc0e0b7a78ad.jpg",
+				"alt": "Chantier architectural au lever du jour",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/41a9fab030560767815fc009d0ee6853.jpg",
+				"alt": "Complexe industriel moderne achevé",
+				"type": "image"
+			}
+		]
+	},
+	{
+		"slug": "aura-voice-sales",
+		"title": "Aura Voice Sales",
+		"category": "Intégration IA",
+		"year": 2025,
+		"details": [
+			{
+				"label": "Client",
+				"value": "Aura Cosmetics & Parfums"
+			},
+			{
+				"label": "Équipe",
+				"value": "Spécialiste IA Vocale & MLOps"
+			},
+			{
+				"label": "Livrables",
+				"value": "Système d’appels entrants/sortants, Analyse des sentiments"
+			},
+			{
+				"label": "Stack",
+				"value": "Gemini Live API, WebSockets, Python, SIP Trunk, Redis"
+			}
+		],
+		"summary": "Agent vocal ultra-rapide confirmant les commandes Cash-on-Delivery avec dialogue naturel et détection d’hésitation.",
+		"description": [
+			"Automatisation des appels de confirmation de commande sous 5 minutes après validation du panier, avec traitement de la langue parlée et des désistements.",
+			"Chute du taux de retour de colis (NPAI/refus) de 28% à moins de 8% dès le premier mois d’exploitation."
+		],
+		"cover": {
+			"src": "/projects/assets/6973abf0018aa8bec9b1f0e9c1fcd467.jpg",
+			"alt": "Flacon de parfum de luxe et packaging soigné",
+			"width": 2000,
+			"height": 1335
+		},
+		"gallery": [
+			{
+				"src": "/projects/assets/42c5a14e20dd92014cadf7fe33c454fc.jpg",
+				"alt": "Microphone de studio et interface audio",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/2019ae60dff9372a37e2b18cbe0ae196.jpg",
+				"alt": "Produits cosmétiques alignés en boutique",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/ae47c423aaa80abca834e6eebc8cac93.jpg",
+				"alt": "Casque audio professionnel sur bureau épuré",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/678839947c5426e6baf4224e45d848eb.jpg",
+				"alt": "Ambiance créative studio et design sonore",
+				"type": "image"
+			}
+		]
+	},
+	{
+		"slug": "atlas-data-sync",
+		"title": "Atlas Data Sync",
+		"category": "Automatisation COD",
+		"year": 2024,
+		"details": [
+			{
+				"label": "Client",
+				"value": "Maghreb Distribution & Logistique"
+			},
+			{
+				"label": "Équipe",
+				"value": "Data Engineer & DevOps"
+			},
+			{
+				"label": "Livrables",
+				"value": "Pipelines ETL automatisés, Connecteurs API sur-mesure"
+			},
+			{
+				"label": "Stack",
+				"value": "Python, Docker, Apache Airflow, n8n, Supabase"
+			}
+		],
+		"summary": "Pipeline automatisé synchronisant les stocks, factures et statuts d’expédition entre 12 fournisseurs et 3 marketplaces.",
+		"description": [
+			"Mise en place de flux de données asynchrones sans rupture de service pour éliminer les ressaisies manuelles et les ruptures d’inventaire.",
+			"Alerting automatisé en temps réel en cas de divergence ou de retard transporteur, garantissant une intégrité totale des flux financiers."
+		],
+		"cover": {
+			"src": "/projects/assets/5454fac51c2ea6e75c3eb05d6c4e00c7.jpg",
+			"alt": "Faisceau de fibre optique et transmission de données",
+			"width": 2000,
+			"height": 1122
+		},
+		"gallery": [
+			{
+				"src": "/projects/assets/05c0486b93d64da04af7c07cbae17486.jpg",
+				"alt": "Salle de serveurs haute sécurité en datacenter",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/1133eac2eb2a5b16b7c7274d56a81bd5.jpg",
+				"alt": "Microprocesseur et circuits électroniques bleutés",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/2e1b00742b0e26b04f2d391e7e9efbc5.jpg",
+				"alt": "Dashboard de métriques réseau en temps réel",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/cc7a23f875bd4e6c9120d811b6d18c11.jpg",
+				"alt": "Matrice de câblage haute vitesse",
+				"type": "image"
+			}
+		]
+	},
+	{
+		"slug": "sahara-horizon",
+		"title": "Sahara Horizon",
+		"category": "Plateforme Web",
+		"year": 2025,
+		"details": [
+			{
+				"label": "Client",
+				"value": "Sahara Horizon Expeditions"
+			},
+			{
+				"label": "Équipe",
+				"value": "Lead Frontend & UI/UX Designer"
+			},
+			{
+				"label": "Livrables",
+				"value": "Vitrine interactive, Cartographie interactive, Checkout"
+			},
+			{
+				"label": "Stack",
+				"value": "Next.js, Mapbox GL, Tailwind CSS, Stripe, Motion"
+			}
+		],
+		"summary": "Expérience digitale immersive présentant des circuits sahariens exclusifs avec réservation instantanée et cartographie 3D.",
+		"description": [
+			"Conception d’une interface visuelle percutante rythmée par la vidéo et la photographie haute définition des grands espaces sahariens.",
+			"Système de réservation intuitif guidant l’utilisateur à travers les étapes de préparation, météo en direct et options d’équipements."
+		],
+		"cover": {
+			"src": "/projects/assets/519ff1a7e6b16efc028942eb297bc434.jpg",
+			"alt": "Dunes dorées au cœur du Sahara algérien",
+			"width": 2000,
+			"height": 3000
+		},
+		"gallery": [
+			{
+				"src": "/projects/assets/b34ee42ab3ecbb88bcac94d58b57dba2.jpg",
+				"alt": "Véhicule tout-terrain en piste désertique",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/6b9b872f9de98edd4f74a529cb95f59d.jpg",
+				"alt": "Cérémonie du thé traditionnel au bivouac",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/7f9d16cd0f39320e14f039ecb5aa6946.jpg",
+				"alt": "Architecture en pisé et ksour millénaires",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/40ae0e1c197cedcdf444b3cddd95fc42.jpg",
+				"alt": "Massif rocheux du Tassili n’Ajjer",
+				"type": "image"
+			}
+		]
+	},
+	{
+		"slug": "documind-enterprise",
+		"title": "DocuMind Enterprise",
+		"category": "Intégration IA",
+		"year": 2024,
+		"details": [
+			{
+				"label": "Client",
+				"value": "Alliance Droit & Conseil"
+			},
+			{
+				"label": "Équipe",
+				"value": "Chercheur NLP & Ingénieur Fullstack"
+			},
+			{
+				"label": "Livrables",
+				"value": "Moteur de recherche sémantique, Extraction d’entités, Synthèse"
+			},
+			{
+				"label": "Stack",
+				"value": "Python, FastAPI, LlamaIndex, Qdrant, React, Tailwind"
+			}
+		],
+		"summary": "Système de recherche intelligente indexant plus de 50 000 contrats et textes réglementaires en recherche vectorielle.",
+		"description": [
+			"Accélération des revues contractuelles grâce à des citations exactes vérifiables et un agent de synthèse respectant les normes de confidentialité des données.",
+			"Réduction de 65% du temps de recherche documentaire pour les juristes et auditeurs du cabinet."
+		],
+		"cover": {
+			"src": "/projects/assets/d8443057798ed5b16e82dc6a8d620ac7.jpg",
+			"alt": "Bibliothèque contemporaine et baies vitrées lumineuses",
+			"width": 2000,
+			"height": 1333
+		},
+		"gallery": [
+			{
+				"src": "/projects/assets/9dfc3e1c869b7d08a400b227f12eeffb.jpg",
+				"alt": "Tablette affichant un document juridique numérisé",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/95fd43c89b64b11a140383a8c6274a6d.jpg",
+				"alt": "Salle de réunion épurée pour cabinet de conseil",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/786083f7abfaf4ff2a284afaa9a5f483.jpg",
+				"alt": "Graphe sémantique abstrait sur écran de veille",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/bfc9c6c181800c8708245eb1eb8b77c6.jpg",
+				"alt": "Lignes de code d’analyse vectorielle",
+				"type": "image"
+			}
+		]
+	},
+	{
+		"slug": "optiroute-cod",
+		"title": "OptiRoute COD",
+		"category": "Automatisation COD",
+		"year": 2025,
+		"details": [
+			{
+				"label": "Client",
+				"value": "FastLogistics Urbaine"
+			},
+			{
+				"label": "Équipe",
+				"value": "Développeur Algorithmique & Mobile"
+			},
+			{
+				"label": "Livrables",
+				"value": "Algorithme de clustering géographique, App PWA pour livreurs"
+			},
+			{
+				"label": "Stack",
+				"value": "TypeScript, Node.js, Leaflet, OR-Tools, PWA"
+			}
+		],
+		"summary": "Optimisation algorithmique des livraisons urbaines regroupant les colis par quartier pour maximiser le taux de remise en main propre.",
+		"description": [
+			"Génération d’itinéraires dynamiques adaptés au trafic et aux créneaux de disponibilité des clients pour les livraisons en paiement à la livraison.",
+			"Augmentation de 32% du nombre de commandes livrées par coursier et par jour avec confirmation par code SMS sécurisé."
+		],
+		"cover": {
+			"src": "/projects/assets/cf797ce96fe8541be1b2d6a0b6133f5d.jpg",
+			"alt": "Vue aérienne nocturne du réseau routier et flux urbains",
+			"width": 2000,
+			"height": 2502
+		},
+		"gallery": [
+			{
+				"src": "/projects/assets/0c6b9e6bf54142b68740b304ccc892b1.jpg",
+				"alt": "Coursier urbain avec sac de livraison",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/617e98c9919d722f91901f86feab8d50.jpg",
+				"alt": "Itinéraire GPS affiché sur smartphone",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/a19afb05e5fefaa967979ed383221594.jpg",
+				"alt": "Plateforme de départ des tournées de livraison",
+				"type": "image"
+			},
+			{
+				"src": "/projects/assets/64484c53670a7c34a5e59560b1fb7c53.jpg",
+				"alt": "Signature électronique de réception de colis",
+				"type": "image"
+			}
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"artifactUrl": "",
+	"mode": "auto",
+	"localUrl": "http://localhost:5173",
+	"siteUrl": "http://localhost:5173",
+	"hostinger": {
+		"domain": ""
+	},
+	"checkEveryMinutes": 720
+}
